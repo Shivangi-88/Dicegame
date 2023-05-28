@@ -1,0 +1,50 @@
+.structure {
+    text-align: center;
+    width: 70%;
+    margin:auto;
+}
+
+.player {
+     text-align: center;
+     display:inline-block;
+}
+body{
+    background-color:#FEE9E1;
+    align-items: center;
+    
+
+}
+h1{
+    font-family:cursive;
+    text-shadow: 5px 0 #ff758f;
+    font-size: 7rem;
+    color:#64B6AC;
+    margin: 20px;
+}
+p{
+    font-size: 2rem;
+    color: #590d22;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+.btn{
+    margin-top: 5%;
+    color:white;
+    font-family:cursive;
+    font-size: 2rem;
+    text-align: center;
+    border: #ff758f solid 2px;
+    display:flex;
+    justify-content: center;
+    position: relative;
+    left: 44%;
+    
+}
+img{
+    width: 80%;
+}
+footer{
+    margin-top: 5%;
+    color: black;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
